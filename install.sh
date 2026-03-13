@@ -3,10 +3,10 @@
 # claude-task-tracker v3 installer (self-contained)
 #
 # Install:
-#   bash <(curl -fsSL https://raw.githubusercontent.com/USER/claude-task-tracker/main/install.sh)
+#   bash <(curl -fsSL https://raw.githubusercontent.com/MidoDevelop/claude-task-tracker/main/install.sh)
 #
 # Or clone & install:
-#   git clone https://github.com/USER/claude-task-tracker.git
+#   git clone https://github.com/MidoDevelop/claude-task-tracker.git
 #   bash claude-task-tracker/install.sh
 # ============================================================
 
